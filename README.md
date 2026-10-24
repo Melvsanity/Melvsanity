@@ -1,28 +1,8 @@
 <h1 align="center">Sup  (ノ>_<)ノ ~┻┻ </h1>
 
 <p align="center">
-This is a personal project repo. Nothing to see here.
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=mvporcalla&label=Profile%20views&color=0e75b6&style=flat" alt="mvporcalla" />
 </p>
-
----
-
-<p align="center"><strong>Currently focused on game development using Unity and Godot.</strong></p>
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="55" />
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" />
-    </td>
-  </tr>
-</table>
-
 
 ---
 
